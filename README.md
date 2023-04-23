@@ -1,1 +1,3 @@
-# microservice_struture
+# HOW TO BUILD AND STRUCTURE A MICROSERVICE IN GOLANG
+
+
